@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Il Sistema Solare</title>  
+</body>
+</html>
+>
+</head>
+<body>
+    <header>
+        <h1>Il Sistema Solare</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Sintesi</h2>
+            <p>Il Sistema Solare è un complesso sistema astronomico costituito dal sole e da una serie di corpi celesti che orbitano attorno ad esso. Questi corpi includono pianeti, lune, asteroidi, comete e altro ancora. Il Sole è la stella centrale del sistema e fornisce la luce e il calore necessari per sostenere la vita sulla Terra. I pianeti sono corpi di dimensioni variabili che orbitano intorno al Sole, ognuno con le proprie caratteristiche uniche. Alcuni pianeti hanno lune che orbitano attorno a loro, offrendo ulteriori opportunità di studio. Gli asteroidi sono piccoli corpi rocciosi che si trovano principalmente nella fascia tra Marte e Giove. Le comete sono composte da ghiaccio, polvere e gas e hanno orbite eccentriche che le portano vicino al Sole solo a intervalli regolari.</p>
+        </section>
+        <section>
+            <h2>I Pianeti Principali</h2>
+            <ul>
+                <li><strong>Mercurio:</strong> Il pianeta più vicino al Sole.</li>
+                <li><strong>Venere:</strong> Conosciuto come il "pianeta gemello" della Terra.</li>
+                <li><strong>Terra:</strong> Il nostro pianeta, unico per la presenza di acqua liquida.</li>
+                <li><strong>Marte:</strong> Spesso chiamato il "pianeta rosso" a causa del suo colore distintivo.</li>
+                <li><strong>Giove:</strong> Il pianeta più grande, conosciuto per la sua grande macchia rossa.</li>
+                <li><strong>Saturno:</strong> Riconoscibile per i suoi spettacolari anelli.</li>
+                <li><strong>Urano:</strong> Con inclinazione assiale estrema, appare ruotato lateralmente.</li>
+                <li><strong>Nettuno:</strong> Pianeta blu, con intensi venti e una serie di lune.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <header>
+        <h1>Immagini Dei Pianeti</h1>
+    </header>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Immagini Del Sistema Solare</title>
+    <style>
+        body {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .planet-image {
+            max-width: 200px;
+            max-height: 200px;
+            margin: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+
+</head>
+<body>
+    <img class="planet-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mercury_in_color_-_Prockter07_centered.jpg/270px-Mercury_in_color_-_Prockter07_centered.jpg" alt="Mercurio">
+    <img class="planet-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2o-y2gFHOEfsLnahsJd8JPZ9xMdkwswI-ag&usqp=CAU" alt="Venere">
+    <img class="planet-image" src="https://www.geomagazine.it/wp-content/uploads/2020/04/Terra-998x1024.jpg" alt="Terra">
+    <img class="planet-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/260px-OSIRIS_Mars_true_color.jpg" alt="Marte">
+    <img class="planet-image" src="https://edu.inaf.it/wp-content/uploads/2023/02/Hubble_s_observation_of_Jupiter_in_2021-1024x1024.jpg" alt="Giove">
+    <img class="planet-image" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Saturn_%28planet%29_large.jpg" alt="Saturno">
+    <img class="planet-image" src="https://www.youmath.it/images/stories/astronomia/urano/urano.jpg" alt="Urano">
+    <img class="planet-image" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Neptune_-_Voyager_2_%2829347980845%29_flatten_crop.jpg" alt="Nettuno">
+</body>
+</html>
